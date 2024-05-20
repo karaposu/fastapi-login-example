@@ -1,0 +1,7 @@
+fastapi
+fastapi-login
+sqlalchemy
+uvicorn
+passlib[bcrypt]
+pydantic
+sqlalchemy
